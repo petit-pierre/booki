@@ -494,9 +494,11 @@ footer section {
         }
 
         .localisation___bouton {
-            display: block;
-            
-              
+            display: block;  
+        }
+
+        .localisation {
+            margin: 20px;
         }
 
         .localisation___bouton button {
@@ -512,7 +514,7 @@ footer section {
             
         }
 
-        .localisation, input {
+        .localisation input {
            width: 100%;
         }
         
